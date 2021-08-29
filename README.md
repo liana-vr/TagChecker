@@ -13,12 +13,11 @@ And lastly, if the paragraph has a missing closing tag, the output will be "Expe
 <br>
 
 ### <u>A unitTests class containig the following five tests for the various test cases</u>
-1. CorrectlyTaggedParagraphWithNestedTags()&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Testing a correctly tagged paragraph with nested tags
-2. CorrectlyTaggedParagraphWithMultiplePairs()&emsp;&emsp;&emsp;&emsp;- Testing a correctly tagged paragraph with multiple pairs of unnested tags
-3. TagsAreNotNestedCorrectly()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Testing a paragraph that contains tags are nested incorrectly
-4. ExtraClosingTag()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;- Testing a paragraph that contains an extra closing tag
-5. MissingClosingTag()&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Testing a paragraph that has a missing closing tag
-<br>
+1. CorrectlyTaggedParagraphWithNestedTags()<br>&emsp;&emsp;&emsp;- Testing a correctly tagged paragraph with nested tags<br>
+2. CorrectlyTaggedParagraphWithMultiplePairs()<br>&emsp;&emsp;&emsp;- Testing a correctly tagged paragraph with multiple pairs of unnested tags<br>
+3. TagsAreNotNestedCorrectly()<br>&emsp;&emsp;&emsp;- Testing a paragraph that contains tags are nested incorrectly<br>
+4. ExtraClosingTag()<br>&emsp;&emsp;&emsp;- Testing a paragraph that contains an extra closing tag<br>
+5. MissingClosingTag()<br>&emsp;&emsp;&emsp;- Testing a paragraph that has a missing closing tag<br>
 <br>
 
 ## **Instructions on building and running the code:**
