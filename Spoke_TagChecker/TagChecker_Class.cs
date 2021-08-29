@@ -41,6 +41,7 @@ namespace Spoke_TagChecker
                                 openTag = tagsStack.Peek();                                         // openTag is updated to the next tag in the stack 
                                 continue;                                                           // continue with the loop
                             }
+                            continue;
                         }
 
                         if (!openTag.Equals(closingTag))                                            // if the openTag does not match the closingTag
