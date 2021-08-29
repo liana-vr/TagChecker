@@ -5,11 +5,11 @@
 <br>
 
 ### <u>A TagChecker_Class containig the TagChecker function, which takes a string input.</u>
-The function loops through the given input tot determine if it is correctly tagged or not.<br>
+The function loops through the given input to determine if it is correctly tagged or not.<br>
 If it is correct, the program will output "Correctly tagged paragraph" in the console.<br>
-If the tags are incorrectly nested, it will output "Expected `</C>` found `</B>`".<br>
-if the paragraph has an extra closing tag, the output will be "Expected # found `</C>`".<br>
-And lastly, if the paragraph has a missing closing tag, the output will be "Expected `</B>` found #". <br>
+If the tags are incorrectly nested, it will output "Expected `</C>` found `</B>`" for example.<br>
+If the paragraph has an extra closing tag, the output will be "Expected # found `</C>`" for example.<br>
+And lastly, if the paragraph has a missing closing tag, the output will be "Expected `</B>` found #" for example. <br>
 <br>
 
 ### <u>A unitTests class containig the following five tests for the various test cases</u>
